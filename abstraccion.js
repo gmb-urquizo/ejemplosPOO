@@ -1,3 +1,3 @@
-var foo = function() {};
-alert( 'foo es una Función: ' + (foo instanceof Function) );
-alert( 'foo.prototype es un Objeto: ' + (foo.prototype instanceof Object) );
+var carro = function() {};
+alert( 'carro es una Función: ' + (carro instanceof Function) );
+alert( 'carro.prototype es un Objeto: ' + (carro.prototype instanceof Object) );
